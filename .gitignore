@@ -1,0 +1,3 @@
+node_modules
+debug.log
+server/static/js/client.min.js
